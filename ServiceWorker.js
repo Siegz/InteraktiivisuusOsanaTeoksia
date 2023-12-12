@@ -1,4 +1,4 @@
-const cacheName = "Oskari Loppi-KolmenKilotavunKoreografiat-1.0";
+const cacheName = "Oskari Loppi-NopeaInteraktiivinenTeos-1.0";
 const contentToCache = [
     "Build/InteraktiivinenTeos.loader.js",
     "Build/InteraktiivinenTeos.framework.js",
